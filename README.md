@@ -37,9 +37,9 @@ I have two years of commercial experience in web development, with an emphasis o
 * Building and launching **[webtoast.dev](https://webtoast.dev)** 🍞, a new project focused on delivering modern and efficient web solutions.
 
 ### 👯 My previous projects and experience...
-* Building performant websites and migrating a CRM system at **Helpfind**.
-* Creating a full-stack B2B platform from scratch for a freelance client, serving over 2000 users and featuring a custom CMS.
-* Building a Spotify clone as a university project using **Laravel** and **Blade**.
+* Building performant websites and migrating a CRM system at **[Helpfind](https://helpfind.pl)**.
+* Developing a **[full-stack project with Stripe payments](https://bnp.global)** for a freelance client.
+* Building a SPA website with a custom CMS for **[Wnetrze Raju](https://wnetrze-raju.vercel.app)**, focusing on content management and performance.
 
 ### 🌱 I’m currently learning...
 * Advanced backend patterns with Node.js and scalable serverless architecture.
