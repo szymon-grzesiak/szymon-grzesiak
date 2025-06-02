@@ -1,4 +1,5 @@
 ### Hi there! 👋
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
 
 My name is Szymon and I'm a recent Computer Science graduate (B.Eng., March 2025) from the University of Kalisz.
 
@@ -13,6 +14,7 @@ I have two years of commercial experience in web development, with an emphasis o
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 **Frameworks/Libraries**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br />
@@ -22,6 +24,7 @@ I have two years of commercial experience in web development, with an emphasis o
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Tools & Platforms**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br />
@@ -37,7 +40,7 @@ I have two years of commercial experience in web development, with an emphasis o
 * Building and launching **[webtoast.dev](https://webtoast.dev)** 🍞, a new project focused on delivering modern and efficient web solutions.
 
 ### 👯 My previous projects and experience...
-* Building performant websites and migrating a CRM system @ **[Helpfind](https://helpfind.pl)**.
+* Building performant websites and migrating a CRM system at **[Helpfind](https://helpfind.pl)**.
 * Developing a **[full-stack project with Stripe payments](https://bnp.global)** for a freelance client.
 * Building a SPA website with a custom CMS for **[Wnetrze Raju](https://wnetrze-raju.vercel.app)**, focusing on content management and performance.
 
@@ -47,4 +50,4 @@ I have two years of commercial experience in web development, with an emphasis o
 ### 📫 How to reach me...
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:szymongrzesiak.work@gmail.com"><img width=30 src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-<a href="https://www.linkedin.com/in/szymongrzesiak/"><img width=30 src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/szymongrzesiak/"><img width=30 src="https://img.shields.io/color/96/000000/linkedin.png" alt="linkedin"/></a>
