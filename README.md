@@ -46,4 +46,4 @@ I have two years of commercial experience in web development, with an emphasis o
 ### 📫 How to reach me...
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:szymongrzesiak.work@gmail.com"><img width=30 src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-<a href="[Paste your full LinkedIn profile link here]"><img width=30 src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="[https://www.linkedin.com/in/szymongrzesiak/]"><img width=30 src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
