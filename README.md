@@ -1,5 +1,5 @@
 ### Hi there! 👋
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhyYzZtYzViZGJubHVxY2Jpcm9yM3YwMHVybGZpOHhnd3lwdjRhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3qJsJ6C3F1X51OwsQ/giphy.gif" alt="Coding GIF" />
 
 My name is Szymon and I'm a recent Computer Science graduate (B.Eng., March 2025) from the University of Kalisz.
 
@@ -50,4 +50,4 @@ I have two years of commercial experience in web development, with an emphasis o
 ### 📫 How to reach me...
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:szymongrzesiak.work@gmail.com"><img width=30 src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-<a href="https://www.linkedin.com/in/szymongrzesiak/"><img width=30 src="https://img.shields.io/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/szymongrzesiak/"><img width=30 src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
