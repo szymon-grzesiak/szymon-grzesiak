@@ -37,7 +37,7 @@ I have two years of commercial experience in web development, with an emphasis o
 * Building and launching **[webtoast.dev](https://webtoast.dev)** 🍞, a new project focused on delivering modern and efficient web solutions.
 
 ### 👯 My previous projects and experience...
-* Building performant websites and migrating a CRM system at **[Helpfind](https://helpfind.pl)**.
+* Building performant websites and migrating a CRM system @ **[Helpfind](https://helpfind.pl)**.
 * Developing a **[full-stack project with Stripe payments](https://bnp.global)** for a freelance client.
 * Building a SPA website with a custom CMS for **[Wnetrze Raju](https://wnetrze-raju.vercel.app)**, focusing on content management and performance.
 
