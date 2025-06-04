@@ -46,6 +46,7 @@ I have two years of commercial experience in web development, with an emphasis o
 ###
 
 <div align="center">
+    <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/szymon-grzesiak/count.svg?"  />
 </div>
 
