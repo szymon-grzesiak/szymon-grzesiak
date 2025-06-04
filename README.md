@@ -1,5 +1,5 @@
 ### Hi there! 👋
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-102.gif" alt="Coding GIF" />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJpMHA0NmN4bDhkOWFtdzFtcGZldmw2aDBsZjU4aTFhNm53eW45cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QpXG2TEd8wUA8/giphy.gif" alt="Coding GIF" />
 My name is Szymon and I'm a recent Computer Science graduate (B.Eng., March 2025) from the University of Kalisz.
 
 I have two years of commercial experience in web development, with an emphasis on the Frontend, but with solid Full-Stack skills. As a developer, I love building high-performance, user-centric applications that combine clean code with a great UX/UI experience!
