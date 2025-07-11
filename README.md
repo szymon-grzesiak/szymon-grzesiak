@@ -43,13 +43,6 @@ I have two years of commercial experience in web development, with an emphasis o
 * Developing a **[full-stack project with Stripe payments](https://bnp.global)** for a freelance client.
 * Building a SPA website with a custom CMS for **[Wnetrze Raju](https://wnetrze-raju.vercel.app)**, focusing on content management and performance.
 
-###
-
-<div align="center">
-    <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/szymon-grzesiak/count.svg?"  />
-</div>
-
 ### 📫 How to reach me...
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:szymongrzesiak.work@gmail.com"><img width=30 src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
